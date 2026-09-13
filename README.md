@@ -29,8 +29,8 @@ The Hand-Controlled Drawing Board is an interactive Python program that allows u
 ## Setup
 
 ```bash
-git clone https://github.com/D-Majumder/Gesture-Board.git
-cd Gesture-Board
+git clone https://github.com/D-Majumder/gesture-board.git
+cd gesture-board
 pip install opencv-python numpy mediapipe
 python DrawingBoard.py
 ```
